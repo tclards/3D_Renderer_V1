@@ -9,7 +9,7 @@ I created this 3D renderer using C++, DirectX, and HLSL in 2023 as part of a sch
 
 This project makes use of a free-use 3rd party library called Gateware, developed and provided by professors at Full Sail University.
 
-Build with cmake using "cmake -S ./ -B ./build"
+Build from the Level Renderer folder with cmake using "cmake -S ./ -B ./build"
 
 =======================================
 
