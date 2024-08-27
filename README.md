@@ -6,6 +6,8 @@
 =======================================
 
 I created this 3D renderer using C++, DirectX, and HLSL in 2023 as part of a school project. This is the alpha version of the renderer in the state I first created it.
+This project later served as the backbone for the C++ game "Atlantic Guardian"
+Eventually this was upgraded and overhauled, integrating new features developed for Atlantic Guardian, into my 3D Renderer V2, which can also be found hosted on this github account.
 
 This project makes use of a free-use 3rd party library called Gateware, developed and provided by professors at Full Sail University.
 
